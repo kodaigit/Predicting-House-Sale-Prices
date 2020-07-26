@@ -1,0 +1,2 @@
+# Predicting-House-Sale-Prices
+In this project, I am going to create a multiple linear regression model which predicit house sale prices in the city of Ames, Iowa.  The result is that average RMSE is $26344.835 with Kfold validation(k=5).  In terms of R2 and adjusted R2, they are like below. They are calculated when I implement train/test validation  R squared is about 0.8819061471098402 Adjusted R squared is about 0.8810503945526651
